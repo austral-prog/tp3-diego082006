@@ -1,0 +1,49 @@
+Microsoft Windows [Versión 10.0.26100.4946]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\diede>C:\Users\diede\OneDrive\prog\prog1-python\ejercicio2_tp3_slice_simple_diego.py
+awe
+eso
+awesome
+
+C:\Users\diede>C:\Users\diede\OneDrive\prog\prog1-python\ejercicio1_tp3_in_string_diego.py
+Ingrese un nombre: Matias
+Contiene a: True
+Contiene e: False
+Contiene i: True
+Contiene o: False
+Contiene u: False
+
+C:\Users\diede>C:\Users\diede\OneDrive\prog\prog1-python\ejercicio1_tp3_in_string_diego.py
+Ingrese un nombre: Augusto
+Contiene a: True
+Contiene e: False
+Contiene i: False
+Contiene o: True
+Contiene u: True
+
+C:\Users\diede>C:\Users\diede\OneDrive\prog\prog1-python\ejercicio1_tp3_in_string_diego.py
+Ingrese un nombre: Ines
+Contiene a: False
+Contiene e: True
+Contiene i: True
+Contiene o: False
+Contiene u: False
+
+C:\Users\diede>C:\Users\diede\OneDrive\prog\prog1-python\ejercicio1_tp3_in_string_diego.py
+Ingrese un nombre: Juan
+Contiene a: True
+Contiene e: False
+Contiene i: False
+Contiene o: False
+Contiene u: True
+
+C:\Users\diede>C:\Users\diede\OneDrive\prog\prog1-python\ejercicio3_tp3_slice_advanced_diego.py
+Ingrese un texto: Hello, World!
+o ol!
+
+C:\Users\diede>C:\Users\diede\OneDrive\prog\prog1-python\ejercicio3_tp3_slice_advanced_diego.py
+Ingrese un texto: 12345678910
+5790
+
+C:\Users\diede>
