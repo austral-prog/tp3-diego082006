@@ -1,6 +1,5 @@
-def check_vowels():
-    # Código a implementar utilizando input.
-
+# Ingreso del nombre
+def verificar_vocales(nombre):
     vocales = 'aeiou'
     nombre = nombre.lower()  
     for vocal in vocales:
@@ -13,6 +12,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# Para verificar este ejercicio ejecutar el comando
-# `pytest tp3_in_string_test.py` o `python tp3_in_string_test.py`
