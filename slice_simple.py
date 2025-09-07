@@ -8,5 +8,4 @@ def main():
     # Imprimir en pantalla el resultado
     print(slice_simple(texto))
 
-if __name__ == "__main__":
-    main()
+main()
