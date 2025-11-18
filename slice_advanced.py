@@ -8,5 +8,3 @@ def slice_advanced():
     print(texto[0:3])
     print(texto[medio-1:medio+2])
     print(texto[0:4] + texto[-3:])
-
-slice_advanced()
